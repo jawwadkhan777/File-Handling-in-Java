@@ -10,7 +10,7 @@ Welcome to my Java File Handling and Exception Handling project! This project de
 - **File Writing**: Write data to files with proper handling of file output streams.
 - **File Reading**: Read and display content from existing files.
 - **File Deletion**: Remove files from the system.
-- **Exception Handling**: Utilize `try-catch` blocks and `try-with-resources` for robust error management.
+- **Exception Handling**: Utilize `try-catch` blocks and `try-with-resources` for error management.
 
 
 ## Installation
