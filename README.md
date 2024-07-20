@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to my Java File Handling and Exception Handling project! This project demonstrates core concepts in Java related to file operations and exception management. It includes practical examples of how to:
+Welcome to my Java File Handling and Exception Handling project! This project demonstrates core concepts in Java related to file operations and exception management.
 
 ## Features
 
